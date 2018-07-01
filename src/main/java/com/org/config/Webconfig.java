@@ -13,7 +13,7 @@ import org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAda
 @ComponentScan(basePackages="com.org")
 public class Webconfig extends WebMvcConfigurerAdapter {
    
-	
+	/*super*/
 	/*@Bean
 	public AnnotationMethodHandlerAdapter annotationMethodHandlerAdapter() {
 	    AnnotationMethodHandlerAdapter adapter = new AnnotationMethodHandlerAdapter();

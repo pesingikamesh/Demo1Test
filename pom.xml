@@ -24,6 +24,8 @@
     <!-- Spring core & mvc -->
 	  <!-- Spring core & mvc -->
 	    <!-- Spring core & mvc -->
+		  <!-- Spring core & mvc -->
+		    <!-- Spring core & mvc -->
     <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-context</artifactId>
